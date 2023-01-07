@@ -123,3 +123,27 @@ header{
     border: none;
     border-radius: 5px;
 }
+
+/* FOOTER SECTION START  */
+
+footer{
+    width: 100%;
+    height: 577px;
+    background-color: #151414;
+}
+
+.future{
+    margin: 0 230px;
+}
+
+.future-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 300px;
+}
+.future-info h2{
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+}
